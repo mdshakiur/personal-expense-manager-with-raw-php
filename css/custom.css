@@ -1,0 +1,23 @@
+.dataTables_wrapper {
+  background: #fff;
+  padding: 20px;
+}
+.back-to-home{
+  display:inline-block;
+  position:relative;
+  top: -46px;
+  color:#ffc312;
+}
+.back-to-home:hover{
+  color:#fff;
+  text-decoration: none;
+}
+.report_btn{
+  position: relative;
+  top:35px;
+}
+.report_error{
+  position: absolute;
+  top:0px;
+  width: 100%;
+}
